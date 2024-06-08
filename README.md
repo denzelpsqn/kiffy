@@ -30,7 +30,6 @@ Spotify Themed API
       </div>
       <div class="personal">
         <p>Denzel Pasuquin</p>
-        <p>BSU ID# 2021223</p>
         <p>BSc Year 3</p>
       </div>
       <div class="player" data-aos="fade-right" data-aos-duration="3000">
